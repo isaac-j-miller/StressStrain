@@ -1,143 +1,63 @@
-ENGR314_FA19_0001_acrylic_A_20190903_JJR.is_tens_RawData\Specimen_RawData_1.csv
- Acrylic (Amorphous), trial 0, count: 1 Info: 
-figure: Acrylic (amorphous)0-plot-1.png
+ENGR314_FA19_0001_birchwood_A_20190906_CCS.is_tens_RawData\Specimen_RawData_1.csv
+ Birch Wood, trial 0, count: 1 Info: 
+figure: Birch Wood0-plot-1.png
 shape: cylindrical
-diameter: 0.128000 in
+diameter: 0.245000 in
 length: 2.000000 in
-elastic modulus: 3.32 ksi, determined using the tangent modulus method
-yield strength: 2.66 ksi
+elastic modulus: 10.24 ksi, determined using the tangent modulus method
+yield strength: 4.43 ksi
 no clear yield point. 0.2% offset method used
-ultimate strength: 8.45 ksi
-fracture strength: 6.23 ksi
-true strain at failure: 0.14 (in/in)
-true stress at failure: 7.18 ksi
-reduction in area: 13.18%
-elongation: 15.18%
-
-ENGR314_FA19_0001_acrylic_B_20190906_MA.is_tens_RawData\Specimen_RawData_1.csv
- Acrylic (Amorphous), trial 1, count: 2 Info: 
-figure: Acrylic (amorphous)1-plot-2.png
-shape: cylindrical
-diameter: 0.128000 in
-length: 2.000000 in
-elastic modulus: 3.41 ksi, determined using the tangent modulus method
-yield strength: 4.15 ksi
-no clear yield point. 0.2% offset method used
-ultimate strength: 9.59 ksi
-fracture strength: 7.71 ksi
-true strain at failure: 0.13 (in/in)
-true stress at failure: 8.79 ksi
-reduction in area: 12.20%
-elongation: 13.89%
-
-ENGR314_FA19_0001_HDPE_A_20190903_JJR.is_tens_RawData\Specimen_RawData_2.csv
- High-Density Polyethylene, trial 0, count: 3 Info: 
-figure: High-Density Polyethylene0-plot-3.png
-shape: cylindrical
-diameter: 0.264000 in
-length: 2.000000 in
-elastic modulus: 935.19 psi, determined using the tangent modulus method
-yield strength: 1.01 ksi
-no clear yield point. 0.2% offset method used
-ultimate strength: 3.41 ksi
-fracture strength: 1.82 ksi
-true strain at failure: 1.33 (in/in)
-true stress at failure: 6.88 ksi
-reduction in area: 73.53%
-elongation: 277.73%
-
-ENGR314_FA19_0001_HDPE_B_20190906_MA.is_tens_RawData\Specimen_RawData_1.csv
- High-Density Polyethylene, trial 1, count: 4 Info: 
-figure: High-Density Polyethylene1-plot-4.png
-shape: cylindrical
-diameter: 0.264000 in
-length: 2.000000 in
-elastic modulus: 1.22 ksi, determined using the tangent modulus method
-yield strength: 1.44 ksi
-no clear yield point. 0.2% offset method used
-ultimate strength: 3.53 ksi
-fracture strength: 1.45 ksi
-true strain at failure: 1.15 (in/in)
-true stress at failure: 4.57 ksi
-reduction in area: 68.32%
-elongation: 215.70%
-
-ENGR314_FA19_0001_Nylon_A_20190903_NAA.is_tens_RawData\Specimen_RawData_1.csv
- Nylon (Semi-Crystalline), trial 0, count: 5 Info: 
-figure: Nylon (semi-crystalline)0-plot-5.png
-shape: cylindrical
-diameter: 0.062100 in
-length: 5.120000 in
-elastic modulus: 3.38 ksi, determined using the tangent modulus method
-yield strength: 2.51 ksi
-no clear yield point. 0.2% offset method used
-ultimate strength: 6.02 ksi
-fracture strength: 4.46 ksi
-true strain at failure: 0.14 (in/in)
-true stress at failure: 5.15 ksi
-reduction in area: 13.34%
-elongation: 15.40%
-
-ENGR314_FA19_0001_polyproylene_Aredo_20190903_MELD.is_tens_RawData\Specimen_RawData_2.csv
- Polypropylene, trial 0, count: 6 Info: 
-figure: Polypropylene0-plot-6.png
-shape: cylindrical
-diameter: 0.118000 in
-length: 2.000000 in
-elastic modulus: 2.54 ksi, determined using the tangent modulus method
-yield strength: 2.18 ksi
-no clear yield point. 0.2% offset method used
-ultimate strength: 5.12 ksi
+ultimate strength not reached
 fracture point not reached
 
-ENGR314_FA19_0001_polyproylene_B_20190903_CCS.is_tens_RawData\Specimen_RawData_1.csv
- Polypropylene, trial 1, count: 7 Info: 
-figure: Polypropylene1-plot-7.png
+ENGR314_FA19_0001_OakWood_A_20190903_JCM.is_tens_RawData\Specimen_RawData_1.csv
+ Oak Wood, trial 0, count: 2 Info: 
+figure: Oak Wood0-plot-2.png
 shape: cylindrical
-diameter: 0.125000 in
+diameter: 0.251000 in
 length: 2.000000 in
-elastic modulus: 2.26 ksi, determined using the tangent modulus method
-yield strength: 1.84 ksi
+elastic modulus: 10.16 ksi, determined using the tangent modulus method
+yield strength: 5.75 ksi
+clear yield point at (2.1530,5750.7039)
+ultimate strength: 8.15 ksi
+fracture strength: 6.49 ksi
+true strain at failure: 0.09 (in/in)
+true stress at failure: 7.11 ksi
+reduction in area: 8.66%
+elongation: 9.48%
+
+ENGR314_FA19_0002_birtchwood_A_20190903_AmericanIdiots_1.is_tens_RawData\Specimen_RawData_1.csv
+ Birch Wood, trial 1, count: 3 Info: 
+figure: Birch Wood1-plot-3.png
+shape: cylindrical
+diameter: 0.244000 in
+length: 2.000000 in
+elastic modulus: 11.41 ksi, determined using the tangent modulus method
+yield strength: 2.38 ksi
 no clear yield point. 0.2% offset method used
-ultimate strength: 4.41 ksi
+ultimate strength not reached
 fracture point not reached
 
-ENGR314_FA19_0002_Acrylic_B_20190903_JAM_1.is_tens_RawData\Specimen_RawData_1.csv
- Acrylic (Amorphous), trial 2, count: 8 Info: 
-figure: Acrylic (amorphous)2-plot-8.png
+ENGR314_FA19_0002_maplewood_A_20190903_NSJ.is_tens_RawData\Specimen_RawData_1.csv
+ Maple Wood, trial 0, count: 4 Info: 
+figure: Maple Wood0-plot-4.png
 shape: cylindrical
-diameter: 0.127000 in
+diameter: 0.255000 in
 length: 2.000000 in
-elastic modulus: 3.66 ksi, determined using the tangent modulus method
-yield strength: 3.52 ksi
+elastic modulus: 12.59 ksi, determined using the tangent modulus method
+yield strength: 6.35 ksi
 no clear yield point. 0.2% offset method used
-ultimate strength: 9.24 ksi
-fracture strength: 6.75 ksi
-true strain at failure: 0.15 (in/in)
-true stress at failure: 7.84 ksi
-reduction in area: 13.99%
-elongation: 16.26%
-
-ENGR314_FA19_0002_pollypropelyne_A_20190903_AmericanIdiots_1.is_tens_RawData\Specimen_RawData_1.csv
- Polypropylene, trial 2, count: 9 Info: 
-figure: Polypropylene2-plot-9.png
-shape: cylindrical
-diameter: 0.117000 in
-length: 2.000000 in
-elastic modulus: 2.15 ksi, determined using the tangent modulus method
-yield strength: 2.03 ksi
-no clear yield point. 0.2% offset method used
-ultimate strength: 4.80 ksi
+ultimate strength not reached
 fracture point not reached
 
-ENGR314_FA19_0002_Polypropelyne_B_redo_20190903_ACE.is_tens_RawData\Specimen_RawData_1.csv
- Polypropylene, trial 3, count: 10 Info: 
-figure: Polypropylene3-plot-10.png
+ENGR314_FA19_0002_oakwood_A_20190903_TheSeniors.is_tens_RawData\Specimen_RawData_1.csv
+ Oak Wood, trial 1, count: 5 Info: 
+figure: Oak Wood1-plot-5.png
 shape: cylindrical
-diameter: 0.117000 in
+diameter: 0.253000 in
 length: 2.000000 in
-elastic modulus: 2.39 ksi, determined using the tangent modulus method
-yield strength: 2.02 ksi
-no clear yield point. 0.2% offset method used
-ultimate strength: 4.85 ksi
+elastic modulus: 7.06 ksi, determined using the tangent modulus method
+yield strength: 4.58 ksi
+clear yield point at (3.1750,4582.0183)
+ultimate strength: 9.53 ksi
 fracture point not reached

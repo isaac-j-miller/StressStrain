@@ -37,7 +37,7 @@ PALLETS = \
         'polypropylene': 'Blues_r',
         'polyethylene': 'BuGn_r',
         'acrylic': 'RdPu',
-        'birch': 'YlOrRd_r',
+        'birch': 'GnBu_r',
         'maple': 'PuBuGn_r',
         'oak': 'BuPu_r',
         'carbon': 'Greys_r',
@@ -205,7 +205,7 @@ class Diagram:
                             (self._data.deriv2 < 0)]
 
         if len(maxima) and self._type != 'nylon':
-            decision = self._data.shift(w//4)[self._data.index==maxima[maxima.deriv2 == maxima.deriv2.min()].index[0]]
+            decision = self._data.shift(w//4)[self._data.index == maxima[maxima.deriv2 == maxima.deriv2.min()].index[0]]
 
             self._yield_point = (decision.strain_percent.values[0], decision.stress.values[0])
             self._yield_strength = self._yield_point[1]
@@ -488,6 +488,12 @@ def processFolder(home, folder, concat=False):
 
 
 if __name__=='__main__':
-    Diagram.plotName = 'Polymers'
-    folderwalk('C:/Users/Isaac Miller/Documents/materials_lab1', ['acr','pol','nylon', 'hdpe'], True)
+    Diagram.plotName = 'Woods'
+    folderwalk('C:/Users/Isaac Miller/Documents/GitHub/StressStrain/materials_lab1', ['wood'], True)
+    #folder = 'C:/Users/Isaac Miller/Documents/GitHub/StressStrain/materials_lab1/ENGR314_FA19_0001_1080 Spring Steel_B_20190903_JAZ_1.is_tens_RawData/Specimen_RawData_2.csv'
+    #d = Diagram(folder, '1080 Spring Steel')
+    #d.plot()
+    plt.show()
+
+
 
